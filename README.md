@@ -8,7 +8,6 @@ First-year CS student at UP Western Visayas. Currently learning/building backend
 - **Backend Development**   
 - **API Development**
 - **Systems Architecture**
-- **Web Development""
 
 ## 🛠️ Tech Stack
 
