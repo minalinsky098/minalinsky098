@@ -1,7 +1,12 @@
-## Hi there 👋
+# Hi I'm Royce 👋
 
+About Me
+First-year CS student at UP Western Visayas. Currently learning/building backend systems
+
+## 🛠️ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,js,html,css,c,java,supabase,sqlite)](https://skillicons.dev)
 <!--
-**minalinsky098/minalinsky098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
