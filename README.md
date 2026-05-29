@@ -4,8 +4,8 @@ About Me
 First-year CS student at UP Western Visayas. Currently learning/building backend systems
 
 # Interests
-*Backend Development
-*API Development
+-Backend Development
+-API Development
 
 ## 🛠️ Tech Stack
 
