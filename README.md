@@ -3,6 +3,10 @@
 About Me
 First-year CS student at UP Western Visayas. Currently learning/building backend systems
 
+# Interests
+*Backend Development
+*API Development
+
 ## 🛠️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,js,html,css,c,java,supabase,sqlite)](https://skillicons.dev)
