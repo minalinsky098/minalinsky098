@@ -1,6 +1,6 @@
 # Hi I'm Royce 👋
 
-##About Me
+## About Me
 First-year CS student at UP Western Visayas. Currently learning/building backend systems
 
 ## Interests
