@@ -8,6 +8,7 @@ Outside of code, I play MOBAs and strategy games, mostly the ones where you win 
 
 <p>
   <a href="https://lichess.org/@/minalinsky098"><img alt="Lichess blitz rating" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Flichess.org%2Fapi%2Fuser%2Fminalinsky098&query=%24.perfs.blitz.rating&label=Lichess%20blitz&logo=lichess&logoColor=white&color=2b2b2b&style=flat-square"/></a>
+  <a href="https://www.chess.com/member/hiiiii_98"><img alt="Chess.com bullet rating" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Fhiiiii_98%2Fstats&query=%24.chess_bullet.last.rating&label=Chess.com%20bullet&logo=chessdotcom&logoColor=white&color=81b64c&style=flat-square"/></a>
 </p>
 
 <h3>Tech stack</h3>
