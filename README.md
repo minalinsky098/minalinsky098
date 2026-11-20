@@ -1,10 +1,10 @@
 <h1>Hi, I'm Royce</h1>
 
-I'm a first-year Computer Science student at **UP Western Visayas**. I mostly work on the backend: building APIs with FastAPI, designing databases in Supabase and SQLite, and wiring them up to the apps that use them. Lately I've also been building with AI models and coding agents in my own projects.
-
-I'm open to internships and student projects in backend or full-stack development.
-
-Outside of code, I play MOBAs and strategy games, mostly the ones where you win by planning ahead and outthinking the other side. I also play chess:
+- First-year CS student at **UP Western Visayas**
+- I build backends: APIs in FastAPI, databases in Supabase and Postgres, and the logic that connects them to the app
+- Lately I've been building with AI models and coding agents
+- Open to backend or full-stack internships and student projects
+- Into MOBAs, strategy games and chess, anything where you win by thinking a few moves ahead
 
 <p>
   <a href="https://lichess.org/@/minalinsky098"><img alt="Lichess blitz rating" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Flichess.org%2Fapi%2Fuser%2Fminalinsky098&query=%24.perfs.blitz.rating&label=Lichess%20blitz&logo=lichess&logoColor=white&color=2b2b2b&style=flat-square"/></a>
