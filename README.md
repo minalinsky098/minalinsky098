@@ -4,7 +4,11 @@ I'm a first-year Computer Science student at **UP Western Visayas**. I mostly wo
 
 I'm open to internships and student projects in backend or full-stack development.
 
-Outside of code, I play MOBAs and strategy games, mostly the ones where you win by planning ahead and outthinking the other side.
+Outside of code, I play MOBAs and strategy games, mostly the ones where you win by planning ahead and outthinking the other side. I also play chess:
+
+<p>
+  <a href="https://lichess.org/@/minalinsky098"><img alt="Lichess blitz rating" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Flichess.org%2Fapi%2Fuser%2Fminalinsky098&query=%24.perfs.blitz.rating&label=Lichess%20blitz&logo=lichess&logoColor=white&color=2b2b2b&style=flat-square"/></a>
+</p>
 
 <h3>Tech stack</h3>
 
