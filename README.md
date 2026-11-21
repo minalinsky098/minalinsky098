@@ -1,7 +1,7 @@
 <h1>Hi, I'm Royce</h1>
 
-- First-year CS student at **UP Western Visayas**
-- I build backends: APIs in FastAPI, databases in Supabase and Postgres, and the logic that connects them to the app
+- Second-year CS student at **UP Western Visayas**
+- Learning backend development by building small projects to understand how things work under the hood
 - Lately I've been building with AI models and coding agents
 - Open to backend or full-stack internships and student projects
 - Into MOBAs, strategy games and chess, anything where you win by thinking a few moves ahead
