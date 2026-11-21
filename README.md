@@ -1,6 +1,6 @@
 <h1>Hi, I'm Royce</h1>
 
-- Second-year CS student at **UP Western Visayas**
+- Second-year CS student at **University Of The Philippines Western Visayas**
 - Learning backend development by building small projects to understand how things work under the hood
 - Lately I've been building with AI models and coding agents
 - Open to backend or full-stack internships and student projects
